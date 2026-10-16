@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.whl
+
+# Build & binaries intermediate
+*.res
+*.obj
+*.o
+*.spec
+build/
+dist/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local database
+*.db
